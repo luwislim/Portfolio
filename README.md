@@ -23,8 +23,8 @@ Pada proyek ini, saya bersama dengan tim saya melakukan <i>brain storming</i> be
 </div>
 
 <br>
-<b> Berikut adalah prototype dari aplikasi kami </b>
-##### Dibuat oleh Steven Odolf Yuwono (2201758045)
+<b> Berikut adalah prototype dari aplikasi kami </b> (Dibuat oleh Steven Odolf Yuwono - 2201758045)
+
 
 | Splash Screen |  Main Menu | Saved Place | 
 |:-------------------------:|:-------------------------:|:-------------------------:|
