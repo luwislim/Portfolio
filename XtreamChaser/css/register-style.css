@@ -1,0 +1,32 @@
+
+#section-1{
+    margin-top: 100px;
+       background-color: black;
+       color: white;
+       padding: 10px;
+       border-radius: 10px;
+       font: normal 20px arial, helvetica, sans-serif;
+       
+   }
+   
+   #section-1 h1{
+       margin: 20px;
+       display: flex;
+       
+   }
+   
+   #section-1 P{
+       margin:20px;
+       display: flex;
+       font-size: 20px;
+   }
+
+#gender{
+    margin-top: 100px;
+       background-color: white;
+       color: black;
+       margin-left: 10px;
+       border-radius: 10px;
+       font: normal 20px arial, helvetica, sans-serif;
+       
+}

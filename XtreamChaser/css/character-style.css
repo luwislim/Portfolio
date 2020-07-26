@@ -1,0 +1,57 @@
+/*Bagian Alif */
+
+
+#character-heading{
+    color: white;
+    padding: 5px;
+    margin: auto auto 20px auto;
+    text-align: center;
+    font: normal 16px arial, helvetica, sans-serif;
+    font-size-adjust: 0.58;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#character-list{
+    background-color: rgb(7,5,10);
+    color: white;
+    padding: 5px;
+    display: flex;
+       margin: 0 auto;
+    }
+    
+    
+    .character-card{
+        background-color: rgb(7,5,10);
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+      max-width: 495px;
+        margin: auto;
+      text-align: center;
+      font: normal 16px arial, helvetica, sans-serif;
+      font-size-adjust: 0.58;
+    
+    }
+    .character-card img{
+        width: 100%;
+        display: flex;
+      
+    }
+    
+    .character-card button{
+        background-color: blanchedalmond;
+        color: white;
+        font: normal 25px arial, helvetica, sans-serif;
+        border:none;
+        margin-bottom: 5%;
+        border-radius: 10px;
+    }
+    .character-card:hover{
+        box-shadow: 0 12px 24px 0 rgba(0, 0, 0, 0.2);
+    }
+  
+    
+  
+    
+    .character-card img:hover{
+        opacity: 90%;
+    }

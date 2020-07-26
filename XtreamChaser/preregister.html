@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Xtream Chaser</title>
+    <link rel="shortcut icon" href="assets/logo.png" type="image/x-icon">
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="./css/register-style.css">
+    <script src="./js/validation.js"></script>
+</head>
+<body onload="document.preregister.username.focus()">
+    <!--Navbar-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <nav class="navbar">
+        <span class="navbar_toggle" id="toggle-js">
+          <i class="fa fa-bars"></i>
+        </span>
+        <div class="logo_company">
+            <a href="./index.html"> <img src="assets/logo.png"></a>
+        </div>
+        <ul class="main_nav" id="menu-js">
+            <li>
+                <a href="./index.html" class="links">Home</a>
+            </li>
+            <li>
+                <a href="./galleries.html" class="links">Galleries</a>
+            </li>
+            <li>
+                <a href="./characters.html" class="links">Characters</a>
+            </li>
+            <li>
+                <a href="./lore.html" class="links">Lore</a>
+            </li>
+            <li>
+                <a href="./preregister.html" class="links">Pre-Register</a>
+            </li>
+        </ul>
+    </nav>
+    <!--Register Page-->
+    <div class="container_register">
+        <h1>Pre Register</h1>
+        <form name="preregister" onsubmit="formValidation()">
+            <ul>
+                <li>
+                    <label for="username">Username:     </label>
+                </li>
+                <li>
+                    <input type="text" name="username" placeholder="Input Username" required>
+                </li>
+                <li>
+                    <label for="pass">Password:     </label>
+                </li>
+                <li>
+                    <input type="password" name="pass" placeholder="Password must be at least 8 characters long" required>
+                </li>
+                <li>
+                    <label for="pass">Repeat Password:     </label>
+                </li>
+                <li>                    
+                    <input type="password" name="repass" placeholder="Re-input your password" required>
+                </li>
+                <li>
+                    <label for="email">Email:     </label>
+                </li>
+                <li>                    
+                    <input type="text" name="email"  placeholder="sample@sample.com"required>
+                </li>
+                <li>
+                    <label for="birth">Date of Birth:    </label>
+                </li>
+                <li>                    
+                    <input type="date" name="births" required >
+                </li>
+                <li>
+                    <label for="gender">Gender:     </label>
+                </li>
+                <li>
+                    <select name="sex">
+                        <option selected="" value="Default">Gender</option>
+                        <option value="M">Male</option>
+                        <option value="F">Female</option>
+                        <option value="O">Others</option>
+                    </select>
+                <li>
+                    <label for="birth">Country:  </label>
+                </li>
+                <li>                    
+                    <select name="country">
+                        <option selected="" value="Default">Country</option>
+                        <option value="IN">Indonesia</option>
+                        <option value="US">United State</option>
+                        <option value="UK">United Kingdom</option>
+                        <option value="SG">Singapore</option>
+                        <option value="AU">Australia</option>
+                    </select>
+                </li>
+                <li>
+                    <p>By creating an account you agree to our <a href="#"> Terms & Privacy</a>.</p>
+                </li>
+                <li>
+                    <input type="submit" name="submit" value="Submit" >
+                </li>
+            </ul>
+        </form>
+    </div>
+
+
+
+    <!--Footer-->
+    <div class="footer">
+        <h4>Copyright © Xtream Co,.LTD, all right reserved. Published by PT.Xtream</h4>
+    </div>
+    
+</body>
+</html>
