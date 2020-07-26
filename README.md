@@ -24,6 +24,7 @@ Pada proyek ini, saya bersama dengan tim saya melakukan <i>brain storming</i> be
 
 <br>
 <b> Berikut adalah prototype dari aplikasi kami </b>
+<link rel="stylesheet" type = "text/css" href="https://github.com/luwislim/myPortfolio/blob/master/stylePrototype.css">
 <div class="row">
   <div class="column">
     <img src="https://github.com/luwislim/myPortfolio/blob/master/images/Splash%20Screen.jpg" alt="Splash Screen" style="width:33.3%">
