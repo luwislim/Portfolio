@@ -28,11 +28,11 @@ Pada proyek ini, saya bersama dengan tim saya melakukan <i>brain storming</i> be
 
 | Splash Screen |  Main Menu | Saved Place | 
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img src="https://github.com/luwislim/myPortfolio/blob/master/images/Splash%20Screen.jpg" alt="Splash Screen">  |  <img src="https://github.com/luwislim/myPortfolio/blob/master/images/Main%20Menu.jpg" alt="Main Menu"> | <img src="https://github.com/luwislim/myPortfolio/blob/master/images/Saved%20Place.jpg" alt="Saved Place"> |
+|<img src="https://github.com/luwislim/myPortfolio/blob/master/images/splash.jpg" alt="Splash Screen">  |  <img src="https://github.com/luwislim/myPortfolio/blob/master/images/mMenu.jpg" alt="Main Menu"> | <img src="https://github.com/luwislim/myPortfolio/blob/master/images/saved.jpg" alt="Saved Place"> |
 
 | Select Destination Screen |  Navigation Screen | Select Rute Screen  | 
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img src="https://github.com/luwislim/myPortfolio/blob/master/images/Destination%20Screen.jpg" alt="Select Destination Screen">  |  <img src="https://github.com/luwislim/myPortfolio/blob/master/images/Navigation.jpg" alt="Navigation"> | <img src="https://github.com/luwislim/myPortfolio/blob/master/images/Select%20Transportation.jpg" alt="Select Rute Screen"> |
+|<img src="https://github.com/luwislim/myPortfolio/blob/master/images/dest.jpg" alt="Select Destination Screen">  |  <img src="https://github.com/luwislim/myPortfolio/blob/master/images/navi.jpg" alt="Navigation"> | <img src="https://github.com/luwislim/myPortfolio/blob/master/images/select.jpg" alt="Select Rute Screen"> |
 
 
 ## Project 2: Profanity Checker
