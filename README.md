@@ -1,6 +1,3 @@
-body {
-  background-image: url('https://github.com/luwislim/Portfolio/blob/master/XtreamChaser/preregister.PNG');
-}
 # Luwis Lim's Portfolio
 
 ## **Project 1: Transetter (Software Engineering)**
