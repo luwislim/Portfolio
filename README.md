@@ -70,5 +70,24 @@ Datasets proyek ini diambil dari https://www.kaggle.com/alvinf/data-komentar-vid
 Referensi: https://github.com/vzhou842/profanity-check
 </div>
 
+<br><br>
+## Project 3: XtreamChaser (Human Computer Interaction)
+#### Team
+##### 1. Alif Winanda
+##### 2. Luwis Lim (2201761771)
+##### 3. Steven Odolf Yuwono (2201758045)
 
+<br>
+<b> Penjelasan XtreamChaser </b>
+<div> <p align="justify">
+XtreamChaser adalah proyek dari mata kuliah Human Computer Interaction yang diminta untuk merancang sebuah <i>website</i> untuk sebuah <i>game</i>.
+</p></div>
 
+<br>
+<b> Apa yang saya kerjakan </b>
+<div>
+Pada proyek ini, saya mengerjakan halaman Pre-Register bagian <a href="https://github.com/luwislim/Portfolio/blob/master/XtreamChaser/preregister.html"><b>HTML</b></a> dan <a href="https://github.com/luwislim/Portfolio/blob/master/XtreamChaser/css/register-style.css"><b>CSS</b></a>. Selain itu, saya juga membuat <i>blueprint</i> pada proyek ini. Berikut adalah <i>screenshot</i> halaman Pre-Register:
+<img src="https://github.com/luwislim/Portfolio/blob/master/XtreamChaser/preregister.PNG?raw=true" alt="Pre-Register1">
+<br>
+<img src="https://github.com/luwislim/Portfolio/blob/master/XtreamChaser/preregister2.PNG?raw=true" alt="Pre-Register1">
+</div>
