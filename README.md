@@ -67,7 +67,7 @@ Pada proyek ini, saya bersama dengan tim saya melakukan <i>brain storming</i> un
 <br><br>
 Datasets proyek ini diambil dari https://www.kaggle.com/alvinf/data-komentar-video-youtube-toxic-ericko-lim
 <br><br>
-Referensi https://github.com/vzhou842/profanity-check
+Referensi: https://github.com/vzhou842/profanity-check
 </div>
 
 
