@@ -19,7 +19,7 @@ Transetter merupakan aplikasi berbasis <i>mobile apps</i>. Transetter adalah apl
 <br>
 <b> Apa yang saya kerjakan </b>
 <div>
-Pada proyek ini, saya bersama dengan tim saya melakukan <i>brain storming</i> bersama untuk mengembangkan aplikasi kami. 
+Pada proyek ini, saya bersama dengan tim saya melakukan <i>brain storming</i> bersama untuk mengembangkan aplikasi kami. Saya bersama dengan Daniel Santoso dan Steven Odolf Yuwono berencana unuk melanjutkat proyek ini.
 </div>
 
 <br>
@@ -35,4 +35,13 @@ Pada proyek ini, saya bersama dengan tim saya melakukan <i>brain storming</i> be
 |<img src="https://github.com/luwislim/myPortfolio/blob/master/images/Destination%20Screen.jpg" alt="Select Destination Screen">  |  <img src="https://github.com/luwislim/myPortfolio/blob/master/images/Navigation.jpg" alt="Navigation"> | <img src="https://github.com/luwislim/myPortfolio/blob/master/images/Select%20Transportation.jpg" alt="Select Rute Screen"> |
 
 
+## Project 2: Profanity Checker
+#### Team
+##### 1. Albert Lilian Thamson (2201754412)
+##### 2. Daniel Santoso (2201756506)
+##### 3. Luwis Lim (2201761771)
+##### 4. Steven Odolf Yuwono (2201758045)
+
+<br>
+<b> Penjelasan Profanity Checker </b>
 
