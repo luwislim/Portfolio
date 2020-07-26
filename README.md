@@ -22,4 +22,4 @@ Pada proyek ini, saya bersama dengan tim saya melakukan <i>brain storming</i> be
 </div>
 <br>
 <b> Berikut adalah prototype dari aplikasi kami </b>
-(https://github.com/luwislim/myPortfolio/blob/master/images/Splash%20Screen.jpg)
+![Splash Screen](https://github.com/luwislim/myPortfolio/blob/master/images/Splash%20Screen.jpg)
