@@ -19,7 +19,7 @@ Transetter merupakan aplikasi berbasis <i>mobile apps</i>. Transetter adalah apl
 <br>
 <b> Apa yang saya kerjakan </b>
 <div>
-Pada proyek ini, saya bersama dengan tim saya melakukan <i>brain storming</i> dan presentasi bersama untuk mengembangkan aplikasi kami. Saya bersama dengan Daniel Santoso dan Steven Odolf Yuwono berencana unuk melanjutkat proyek ini.
+Pada proyek ini, saya bersama dengan tim saya melakukan <i>brain storming</i> dan presentasi bersama untuk mengembangkan aplikasi kami. Saya bersama dengan Daniel Santoso dan Steven Odolf Yuwono berencana unuk melanjutkan proyek ini.
 </div>
 
 <br>
