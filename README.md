@@ -36,7 +36,7 @@ Pada proyek ini, saya bersama dengan tim saya melakukan <i>brain storming</i> da
 
 <br><br>
 ## Project 2: Profanity Checker (Natural Language Processing)
-#### Team
+#### Team:
 ##### 1. Albert Lilian Thamson (2201754412)
 ##### 2. Daniel Santoso (2201756506)
 ##### 3. Luwis Lim (2201761771)
@@ -72,7 +72,7 @@ Referensi: <a href="https://github.com/vzhou842/profanity-check">https://github.
 
 <br><br>
 ## Project 3: XtreamChaser (Human Computer Interaction)
-#### Team
+#### Team:
 ##### 1. Alif Winanda
 ##### 2. Luwis Lim (2201761771)
 ##### 3. Steven Odolf Yuwono (2201758045)
