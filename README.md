@@ -22,30 +22,17 @@ Transetter merupakan aplikasi berbasis <i>mobile apps</i>. Transetter adalah apl
 Pada proyek ini, saya bersama dengan tim saya melakukan <i>brain storming</i> bersama untuk mengembangkan aplikasi kami. 
 </div>
 
-
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
-
-/* Clear floats after image containers */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
 <br>
 <b> Berikut adalah prototype dari aplikasi kami </b>
 <div class="row">
   <div class="column">
-    <img src="https://github.com/luwislim/myPortfolio/blob/master/images/Splash%20Screen.jpg" alt="Splash Screen" style="width:100%">
+    <img src="https://github.com/luwislim/myPortfolio/blob/master/images/Splash%20Screen.jpg" alt="Splash Screen" style="width:33.3%">
   </div>
   <div class="column">
-    <img src="https://github.com/luwislim/myPortfolio/blob/master/images/Main%20Menu.jpg" alt="Main Menu" style="width:100%">
+    <img src="https://github.com/luwislim/myPortfolio/blob/master/images/Main%20Menu.jpg" alt="Main Menu" style="width:33.3">
   </div>
   <div class="column">
-    <img src="https://github.com/luwislim/myPortfolio/blob/master/images/Saved%20Place.jpg" alt="Saved Place" style="width:100%">
+    <img src="https://github.com/luwislim/myPortfolio/blob/master/images/Saved%20Place.jpg" alt="Saved Place" style="width:33.3%">
   </div>
 </div>
 
