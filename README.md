@@ -49,6 +49,7 @@ Profanity Checker merupakan sebuah pogram yang dapat mem-<i>filter</i> kata kata
 
 70/30 data split<br>
 <img src="https://github.com/luwislim/Portfolio/blob/master/images/acc(70).png?raw=true" alt"70/30 Data Split">
+<img src="https://github.com/luwislim/Portfolio/blob/master/images/acc(70).jpg?raw=true" alt="Split Data">
 <br>
 80/20 data split<br>
 <img src="https://github.com/luwislim/Portfolio/blob/master/images/acc(80).png?raw=true" alt"80/20 Data Split">
