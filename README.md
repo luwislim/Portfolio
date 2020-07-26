@@ -87,6 +87,7 @@ XtreamChaser adalah proyek dari mata kuliah Human Computer Interaction yang dimi
 <b> Apa yang saya kerjakan </b>
 <div>
 Pada proyek ini, saya mengerjakan halaman Pre-Register bagian <a href="https://github.com/luwislim/Portfolio/blob/master/XtreamChaser/preregister.html"><b>HTML</b></a> dan <a href="https://github.com/luwislim/Portfolio/blob/master/XtreamChaser/css/register-style.css"><b>CSS</b></a>. Selain itu, saya juga membuat <i>blueprint</i> pada proyek ini. Berikut adalah <i>screenshot</i> halaman Pre-Register:
+<br>
 <img src="https://github.com/luwislim/Portfolio/blob/master/XtreamChaser/preregister.PNG?raw=true" alt="Pre-Register1">
 <br>
 <img src="https://github.com/luwislim/Portfolio/blob/master/XtreamChaser/preregister2.PNG?raw=true" alt="Pre-Register1">
