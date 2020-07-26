@@ -49,16 +49,16 @@ Profanity Checker merupakan sebuah pogram yang dapat mem-<i>filter</i> kata kata
   
 <br>
 <b>70/30 data split</b><br>
-<img src="https://github.com/luwislim/Portfolio/blob/master/images/acc(70).png?raw=true" alt="70/30 Accuracy">
-<img src="https://github.com/luwislim/Portfolio/blob/master/images/percobaan(70).png?raw=true" alt="70/30 Test">
+<img src="https://github.com/luwislim/Portfolio/blob/master/ProfanityChecker/data(split70+stopwords)/acc(70).png?raw=true" alt="70/30 Accuracy">
+<img src="https://github.com/luwislim/Portfolio/blob/master/ProfanityChecker/data(split70+stopwords)/percobaan(70).png?raw=true" alt="70/30 Test">
 <br>
 <b>80/20 data split</b><br>
-<img src="https://github.com/luwislim/Portfolio/blob/master/images/acc(80).png?raw=true" alt="80/20 Accuracy">
-<img src="https://github.com/luwislim/Portfolio/blob/master/images/percobaan(80).png?raw=true" alt="80/20 Test">
+<img src="https://github.com/luwislim/Portfolio/blob/master/ProfanityChecker/data(split80+stopwords)/acc(80).png?raw=true" alt="80/20 Accuracy">
+<img src="https://github.com/luwislim/Portfolio/blob/master/ProfanityChecker/data(split80+stopwords)/percobaan(80).png?raw=true" alt="80/20 Test">
 <br>
 <b>90/10 data split</b><br>
-<img src="https://github.com/luwislim/Portfolio/blob/master/images/acc(90).png?raw=true" alt="90/10 Accuracy">
-<img src="https://github.com/luwislim/Portfolio/blob/master/images/percobaan(90).png?raw=true" alt="90/10 Test">
+<img src="https://github.com/luwislim/Portfolio/blob/master/ProfanityChecker/data(split90+stopwords)/acc(90).png?raw=true" alt="90/10 Accuracy">
+<img src="https://github.com/luwislim/Portfolio/blob/master/ProfanityChecker/data(split90+stopwords)/percobaan(90).png?raw=true" alt="90/10 Test">
 </p></div>
 
 <b> Apa yang saya kerjakan </b>
