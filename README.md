@@ -48,13 +48,16 @@ Pada proyek ini, saya bersama dengan tim saya melakukan <i>brain storming</i> da
 Profanity Checker merupakan sebuah pogram yang dapat mem-<i>filter</i> kata kata kasar atau kotor di media sosial maupun di dalam <i>games</i> dengan lebih baik menggunakan Artificial Intelligence. Algoritma yang digunakan adalah . Kami sudah melakukan percobaan pada proyek ini, yang pertama menggunakan 70/30 data split, 80/20 data split, dan 90/10 data split. Dari percobaan tersebut kami menemukan bahwa 70/30 data split memiliki akurasi yang paling tinggi. Berikut adalah <i>screenshots</i> dari hasil yang kami dapatkan:
 
 <b>70/30 data split</b><br>
-<img src="https://github.com/luwislim/Portfolio/blob/master/images/acc(70).png?raw=true" alt="70/30 Data Split">
+<img src="https://github.com/luwislim/Portfolio/blob/master/images/acc(70).png?raw=true" alt="70/30 Accuracy">
+<img src="https://github.com/luwislim/Portfolio/blob/master/images/percobaan(70).png?raw=true" alt="70/30 Test">
 <br>
 <b>80/20 data split</b><br>
-<img src="https://github.com/luwislim/Portfolio/blob/master/images/acc(80).png?raw=true" alt="80/20 Data Split">
+<img src="https://github.com/luwislim/Portfolio/blob/master/images/acc(80).png?raw=true" alt="80/20 Accuracy">
+<img src="https://github.com/luwislim/Portfolio/blob/master/images/percobaan(80).png?raw=true" alt="80/20 Test">
 <br>
 <b>90/10 data split</b><br>
-<img src="https://github.com/luwislim/Portfolio/blob/master/images/acc(90).png?raw=true" alt="90/10 Data Split">
+<img src="https://github.com/luwislim/Portfolio/blob/master/images/acc(90).png?raw=true" alt="90/10 Accuracy">
+<img src="https://github.com/luwislim/Portfolio/blob/master/images/percobaan(90).png?raw=true" alt="90/10 Test">
 </p></div>
 
 <br>
