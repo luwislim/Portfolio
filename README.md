@@ -12,5 +12,6 @@
 
 <br>
 <div> <p align="justify">
+ <b> Penjelasan Transetter <\b>
 Transetter merupakan aplikasi berbasis <i>mobile apps</i>. Transetter adalah aplikasi yang dapat memilih rute perjalanan dari suatu tempat ke tempat lainnya. <i>User</i> hanya     perlu memasukkan 2 titik pada peta, yaitu titik awal dan titik tujuan. Lalu, <i>user</i> akan diminta untuk memilih alat transportasi sesuai keinginannya. Setelah itu,           Transetter akan menunjukkan beberapa rute yang tersedia. Selain menunjukkan beberapa rute, Transetter juga akan menampilkan kombinasi transportasi yang digunakan oleh setiap       rutenya, perkiraan biaya, dan perkiraan waktu yang dibutuhkan untuk sampai di tujuan. Transetter juga memiliki fitur untuk mengurutkan rute-rute tersebut berdasarkan biaya dan   waktu yang dibutuhkan untuk sampai di tujuan. <i>User</i> tinggal perlu memilih rute sesuai dengan kebutuhannya dan Transetter akan segera menampilkan detail dari rute yang  dipilih. Detail yang ditampilkan oleh Transetter, yaitu jenis-jenis transportasi, biaya perjalanan, waktu perjalanan, jadwal angkutan umum (TransJakarta, KRL, atau MRT).
  </p></div>
