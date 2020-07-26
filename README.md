@@ -47,7 +47,7 @@ Pada proyek ini, saya bersama dengan tim saya melakukan <i>brain storming</i> da
 <div> <p align="justify">
 Profanity Checker merupakan sebuah pogram yang dapat mem-<i>filter</i> kata kata kasar atau kotor di media sosial maupun di dalam <i>games</i> dengan lebih baik menggunakan Artificial Intelligence. Algoritma yang digunakan adalah . Kami sudah melakukan percobaan pada proyek ini, yang pertama menggunakan 70/30 data split, 80/20 data split, dan 90/10 data split. Dari percobaan tersebut kami menemukan bahwa 70/30 data split memiliki akurasi yang paling tinggi. Berikut adalah <i>screenshots</i> dari hasil yang kami dapatkan:
   
-<br>
+<br><br>
 <b>70/30 data split</b><br>
 <img src="https://github.com/luwislim/Portfolio/blob/master/ProfanityChecker/data(split70+stopwords)/acc(70).png?raw=true" alt="70/30 Accuracy">
 <img src="https://github.com/luwislim/Portfolio/blob/master/ProfanityChecker/data(split70+stopwords)/percobaan(70).png?raw=true" alt="70/30 Test">
@@ -87,7 +87,7 @@ XtreamChaser adalah proyek dari mata kuliah Human Computer Interaction yang dimi
 <b> Apa yang saya kerjakan </b>
 <div>
 Pada proyek ini, saya mengerjakan halaman Pre-Register bagian <a href="https://github.com/luwislim/Portfolio/blob/master/XtreamChaser/preregister.html"><b>HTML</b></a> dan <a href="https://github.com/luwislim/Portfolio/blob/master/XtreamChaser/css/register-style.css"><b>CSS</b></a>. Selain itu, saya juga membuat <i>blueprint</i> pada proyek ini. Berikut adalah <i>screenshot</i> halaman Pre-Register:
-<br>
+<br><br>
 <img src="https://github.com/luwislim/Portfolio/blob/master/XtreamChaser/preregister.PNG?raw=true" alt="Pre-Register1">
 <br>
 <img src="https://github.com/luwislim/Portfolio/blob/master/XtreamChaser/preregister2.PNG?raw=true" alt="Pre-Register1">
