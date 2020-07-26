@@ -64,9 +64,9 @@ Profanity Checker merupakan sebuah pogram yang dapat mem-<i>filter</i> kata kata
 <b> Apa yang saya kerjakan </b>
 <div>
 Pada proyek ini, saya bersama dengan tim saya melakukan <i>brain storming</i> untuk memaksimalkan fungsi dari program ini. Saya membantu tim dalam <i>cleaning datasets</i> sehingga data tersebut dapat digunakan untuk <i>training</i> dan <i>testing</i> pada program kami. <a href="https://github.com/luwislim/Portfolio/blob/master/ProfanityChecker/master.ipynb"><b>Profanity Checker Code</b></a>
-<br>
+<br><br>
 Datasets proyek ini diambil dari https://www.kaggle.com/alvinf/data-komentar-video-youtube-toxic-ericko-lim
-<br>
+<br><br>
 Referensi https://github.com/vzhou842/profanity-check
 </div>
 
