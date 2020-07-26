@@ -22,6 +22,19 @@ Transetter merupakan aplikasi berbasis <i>mobile apps</i>. Transetter adalah apl
 Pada proyek ini, saya bersama dengan tim saya melakukan <i>brain storming</i> bersama untuk mengembangkan aplikasi kami. 
 </div>
 
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
 <br>
 <b> Berikut adalah prototype dari aplikasi kami </b>
 <div class="row">
