@@ -26,7 +26,7 @@ Pada proyek ini, saya bersama dengan tim saya melakukan <i>brain storming</i> be
 <b> Berikut adalah prototype dari aplikasi kami </b>
 Splash Screen             |  Main Menu
 :-------------------------:|:-------------------------:
-![](https://github.com/luwislim/myPortfolio/blob/master/images/Splash%20Screen.jpg)  |  ![](https://github.com/luwislim/myPortfolio/blob/master/images/Main%20Menu.jpg)
+<img src="https://github.com/luwislim/myPortfolio/blob/master/images/Splash%20Screen.jpg" alt="Splash Screen">  |  <img src="https://github.com/luwislim/myPortfolio/blob/master/images/Main%20Menu.jpg" alt="Main Menu">
 
 
 <img src="https://github.com/luwislim/myPortfolio/blob/master/images/Splash%20Screen.jpg" alt="Splash Screen">
