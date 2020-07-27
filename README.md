@@ -46,7 +46,9 @@ Pada proyek ini, saya bersama dengan tim saya melakukan <i>brain storming</i> da
 <b> Penjelasan Profanity Checker </b>
 <div> <p align="justify">
 Profanity Checker merupakan sebuah pogram yang dapat mem-<i>filter</i> kata kata kasar atau kotor di media sosial maupun di dalam <i>games</i> dengan lebih baik menggunakan Artificial Intelligence. Kami sudah melakukan percobaan pada proyek ini, yang pertama menggunakan 70/30 <i>data split</i>, 80/20 <i>data split</i>, dan 90/10 <i>data split</i>. Dari percobaan tersebut kami menemukan bahwa 70/30 <i>data split</i> memiliki akurasi yang paling tinggi. Berikut adalah <i>screenshots</i> dari hasil yang kami dapatkan:
-  
+<br>
+  <p style font_size:10>NB: Mohon maaf jika terdapat kata-kata kasar pada gambar dibawah.</p>
+
 <br>
 <b>70/30 Data Split</b><br>
 <img src="https://github.com/luwislim/Portfolio/blob/master/ProfanityChecker/data(split70+stopwords)/acc(70).png?raw=true" alt="70/30 Accuracy">
@@ -92,3 +94,20 @@ Pada proyek ini, saya mengerjakan halaman Pre-Register bagian <a href="https://g
 <br>
 <img src="https://github.com/luwislim/Portfolio/blob/master/XtreamChaser/preregister2.PNG?raw=true" alt="Pre-Register1">
 </div>
+
+<br><br>
+## Project 4:
+#### Team:
+##### 1. Luwis Lim (2201761771)
+##### 2. Steven odolf Yuwono (2201758045)
+
+<br>
+<b> Penjelasan Proyek </b>
+<div><p align="justify>
+Proyek ini merupakan proyek dari mata kuliah Artificial Neural Network. Pada proyek ini, diberikan sebuah data ............ dan diminta untuk melakukan <i>classification</i> dan <i>clustering</i> pada data yang telah diberikan.
+</p></div>
+  
+<br>
+<b> Apa yang saya kerjakan </b>
+<div>
+Pada proyek ini saya mengerjakan bagian <i>clustering</i>.
