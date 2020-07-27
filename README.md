@@ -47,7 +47,7 @@ Pada proyek ini, saya bersama dengan tim saya melakukan <i>brain storming</i> da
 <div> <p align="justify">
 Profanity Checker merupakan sebuah pogram yang dapat mem-<i>filter</i> kata kata kasar atau kotor di media sosial maupun di dalam <i>games</i> dengan lebih baik menggunakan Artificial Intelligence. Kami sudah melakukan percobaan pada proyek ini, yang pertama menggunakan 70/30 <i>data split</i>, 80/20 <i>data split</i>, dan 90/10 <i>data split</i>. Dari percobaan tersebut kami menemukan bahwa 70/30 <i>data split</i> memiliki akurasi yang paling tinggi. Berikut adalah <i>screenshots</i> dari hasil yang kami dapatkan:
 <br>
-  <p style font_size:10>NB: Mohon maaf jika terdapat kata-kata kasar pada gambar dibawah.</p>
+  <p style font_size:8>NB: Mohon maaf jika terdapat kata-kata kasar pada gambar dibawah.</p>
 
 <br>
 <b>70/30 Data Split</b><br>
