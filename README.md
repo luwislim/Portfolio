@@ -125,6 +125,9 @@
 <b> Apa yang saya kerjakan </b>
 <div>
   <p align="justify">
-    Pada proyek ini, saya mengerjakan koding dan laporan bagian algoritma. Saya juga melakukan presentasi proyek bersama anggota tim lainnya. Berikut adalah <a href="https://github.com/luwislim/Portfolio/blob/master/Music_and_Lifestyle/Laporan%20Project%20Machine%20Learning_AlbertDanielLuwisSteven.docx"><b>laporan</b></a> proyek kami. Berikut adalah <i>code</i> dari Support Vector Machine dengan <i>dataset</i> <a href="https://github.com/luwislim/Portfolio/blob/master/Music_and_Lifestyle/Code_and_Dataset/Support%20Vector%20Machine%20Project%20ML(indo).ipynb"><b>Indonesia</b></a> dan <a href="https://github.com/luwislim/Portfolio/blob/master/Music_and_Lifestyle/Code_and_Dataset/Support%20Vector%20Machine%20Project%20ML%20(Slovenia).ipynb"><b>Slovakia</b></a>.
+    Pada proyek ini, saya mengerjakan koding dan laporan bagian algoritma. Saya juga melakukan presentasi proyek bersama anggota tim lainnya. Berikut adalah <a   href="https://github.com/luwislim/Portfolio/blob/master/Music_and_Lifestyle/Laporan%20Project%20Machine%20Learning_AlbertDanielLuwisSteven.docx"><b>laporan</b></a> proyek kami. Berikut adalah <i>code</i> dari Support Vector Machine dengan <i>dataset</i> <a href="https://github.com/luwislim/Portfolio/blob/master/Music_and_Lifestyle/Code_and_Dataset/Support%20Vector%20Machine%20Project%20ML(indo).ipynb"><b>Indonesia</b></a> dan <a href="https://github.com/luwislim/Portfolio/blob/master/Music_and_Lifestyle/Code_and_Dataset/Support%20Vector%20Machine%20Project%20ML%20(Slovenia).ipynb"><b>Slovakia</b></a>.
   </p>
 </div>
+
+<br><br>
+Demikian portofolio ini saya buat agar dapat dipergunakan dengan baik. Jika ada kesalahan kata pada portofolio ini saya mohon maaf. Terima kasih.
