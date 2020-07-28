@@ -134,6 +134,6 @@
   <b>Demikian portofolio ini saya buat sebaik mungkin. Jika ada kesalahan kata pada portofolio ini saya mohon maaf.</b>
 </p>
 <br>
-<p align="centre">
+<p align="center">
   <b>Terima Kasih</b>
 </p>
