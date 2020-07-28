@@ -130,4 +130,4 @@
 </div>
 
 <br><br>
-Demikian portofolio ini saya buat agar dapat dipergunakan dengan baik. Jika ada kesalahan kata pada portofolio ini saya mohon maaf. Terima kasih.
+<b>Demikian portofolio ini saya buat agar dapat dipergunakan dengan baik. Jika ada kesalahan kata pada portofolio ini saya mohon maaf. Terima kasih.</b>
