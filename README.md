@@ -100,3 +100,27 @@
   <br>
   <img src="https://github.com/luwislim/Portfolio/blob/master/XtreamChaser/preregister2.PNG?raw=true" alt="Pre-Register1">
 </div>
+
+<br><br>
+## Project 4: The Relationship between People’s Music Preferences and Their Health Lifestyle (Machine Learning)
+#### Team:
+##### 1. Albert Lilian Thamson (2201754412)
+##### 2. Daniel Santoso (2201756506)
+##### 3. Luwis Lim (2201761771)
+##### 4. Steven Odolf Yuwono (2201758045)
+
+<br>
+<b> Penjelasan Proyek </b>
+<div> 
+  <p align="justify">
+    Pada proyek Machine Learning ini, kami membuat suatu program untuk melihat korelasi antara preferensi musik seseorang terhadap <i>lifestyle</i> orang tersebut menggunakan Machine Learning. <i>Dataset</i> yang kami gunakan adalah <i>dataset</i> dari Indonesia dan <i>dataset</i> dari Slovakia. Pada <i>dataset</i> kami, terdapat hasil survei dari sekitar seribu orang. <i>Dataset</i> tersebut berisikan jenis musik yang disukai, genre film yang disukai, dan <i>lifestyle</i> orang tersebut (merokok atau tidak; sering terlambat atau tidak; sering meminum minuman keras atau tidak; dan lain-lain). Kami menggunakan beberapa algoritma pada proyek ini, antara lain Linear Regression, Polynomial Regression, Support Vector Machine (SVM), Decision Tree, K-th Nearest Neighbor (KNN), dan Random Forest. Setelah kami mencoba semua algoritma tersebut, kami dapatkan bahwa algoritma yang cocok untuk proyek ini adalah Random Forest walaupun belum dapat menemukan hubungan yang kuat antara preferensi musik seseorang dan gaya hidupnya. Korelasi paling besar yang kami dapatkan adalah antara variabel Rock n Roll dan variable Merokok. Untuk kedepannya kami ingin mengumpulkan data yang lebih banyak agar algoritma ini dapat menampilkan hasil yang lebih akurat.
+  </p>
+</div>
+
+<br>
+<b> Apa yang saya kerjakan </b>
+<div>
+  <p align="justify">
+    Pada proyek ini, saya mengerjakan koding dan laporan bagian algoritma. Saya juga melakukan presentasi proyek bersama anggota tim lainnya. Berikut adalah <a href="https://github.com/luwislim/Portfolio/blob/master/Music_and_Lifestyle/Laporan%20Project%20Machine%20Learning_AlbertDanielLuwisSteven.docx"><b>laporan</b></a> proyek kami. Berikut adalah <i>code</i> dari Support Vector Machine dengan <i>dataset</i> <a href="https://github.com/luwislim/Portfolio/blob/master/Music_and_Lifestyle/Code_and_Dataset/Support%20Vector%20Machine%20Project%20ML(indo).ipynb"><b>Indonesia</b></a> dan <a href="https://github.com/luwislim/Portfolio/blob/master/Music_and_Lifestyle/Code_and_Dataset/Support%20Vector%20Machine%20Project%20ML%20(Slovenia).ipynb"><b>Slovakia</b></a>.
+  </p>
+</div>
