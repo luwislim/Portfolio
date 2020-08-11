@@ -125,7 +125,7 @@
 <b> Apa yang saya kerjakan </b>
 <div>
   <p align="justify">
-    Pada proyek ini, saya mengerjakan koding dan laporan bagian algoritma Support Vector Machine. Saya juga melakukan presentasi proyek bersama anggota tim lainnya. Berikut adalah <a   href="https://github.com/luwislim/Portfolio/blob/master/Music_and_Lifestyle/Laporan%20Project%20Machine%20Learning_AlbertDanielLuwisSteven.docx"><b>laporan</b></a> proyek kami. Berikut adalah <i>code</i> dari Support Vector Machine dengan <i>dataset</i> <a href="https://github.com/luwislim/Portfolio/blob/master/Music_and_Lifestyle/Code_and_Dataset/Support%20Vector%20Machine%20Project%20ML(Indonesia).ipynb"><b>Indonesia</b></a> dan <a href="https://github.com/luwislim/Portfolio/blob/master/Music_and_Lifestyle/Code_and_Dataset/Support%20Vector%20Machine%20Project%20ML%20 (Slovakia).ipynb"><b>Slovakia</b></a>.
+    Pada proyek ini, saya mengerjakan koding dan laporan bagian algoritma Support Vector Machine. Saya juga melakukan presentasi proyek bersama anggota tim lainnya. Berikut adalah <a   href="https://github.com/luwislim/Portfolio/blob/master/Music_and_Lifestyle/Laporan%20Project%20Machine%20Learning_AlbertDanielLuwisSteven.docx"><b>laporan</b></a> proyek kami. Berikut adalah <i>code</i> dari Support Vector Machine dengan <i>dataset</i> <a href="https://github.com/luwislim/Portfolio/blob/master/Music_and_Lifestyle/Code_and_Dataset/Support%20Vector%20Machine%20Project%20ML%20(Indonesia).ipynb"><b>Indonesia</b></a> dan <a href="https://github.com/luwislim/Portfolio/blob/master/Music_and_Lifestyle/Code_and_Dataset/Support%20Vector%20Machine%20Project%20ML%20(Slovakia).ipynb"><b>Slovakia</b></a>.
   </p>
 </div>
 
@@ -139,7 +139,7 @@
 <b> Penjelasan Tugas </b>
 <div> 
   <p align="justify">
-    Pada mata kuliah Software Engineering, mahasiswa diminta untuk membuat tampilan untuk suatu program bernama PopLegal yang dapat menemukan <i>legal professionals</i> seperti advokat dan notaris. Berikut adalah hasil dari tampilan yang saya buat:
+    PopLegal merupakan tugas individual pada mata kuliah Software Engineering, mahasiswa diminta untuk membuat tampilan untuk suatu program bernama PopLegal yang dapat menemukan <i>legal professionals</i> seperti advokat dan notaris. Berikut adalah hasil dari tampilan yang saya buat:
   </p>
 </div>
 
