@@ -130,6 +130,27 @@
 </div>
 
 <br><br>
+# Additional
+
+## PopLegal (Software Engineering)
+#### Luwis Lim (2201761771)
+
+<br>
+<b> Penjelasan Tugas </b>
+<div> 
+  <p align="justify">
+    Pada mata kuliah Software Engineering, mahasiswa diminta untuk membuat tampilan untuk suatu program bernama PopLegal yang dapat menemukan <i>legal professionals</i> seperti advokat dan notaris. Berikut adalah hasil dari tampilan yang saya buat:
+  </p>
+</div>
+| Login Page | Find Legal Professionals |
+|:-------------------------:|:-------------------------:|
+| <img src="https://github.com/luwislim/Portfolio/blob/master/images/PLLogin.png?raw=true" alt="Login Page"> | <img src="https://github.com/luwislim/Portfolio/blob/master/images/PLFind.png?raw=true" alt="Find Page"> |
+
+| Chat | Feedback |
+|:-------------------------:|:-------------------------:|
+| <img src="https://github.com/luwislim/Portfolio/blob/master/images/PLChat.png?raw=true" alt="Login Page"> | <img src="https://github.com/luwislim/Portfolio/blob/master/images/PLFeedback.png?raw=true" alt="Find Page"> |
+
+<br><br>
 <p align="justify">
   <b>Demikian portofolio ini saya buat sebaik mungkin. Jika ada kesalahan kata pada portofolio ini saya mohon maaf.</b>
 </p>
@@ -137,3 +158,4 @@
 <p align="center">
   <b>Terima Kasih</b>
 </p>
+
