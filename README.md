@@ -142,6 +142,7 @@
     Pada mata kuliah Software Engineering, mahasiswa diminta untuk membuat tampilan untuk suatu program bernama PopLegal yang dapat menemukan <i>legal professionals</i> seperti advokat dan notaris. Berikut adalah hasil dari tampilan yang saya buat:
   </p>
 </div>
+
 | Login Page | Find Legal Professionals |
 |:-------------------------:|:-------------------------:|
 | <img src="https://github.com/luwislim/Portfolio/blob/master/images/PLLogin.png?raw=true" alt="Login Page"> | <img src="https://github.com/luwislim/Portfolio/blob/master/images/PLFind.png?raw=true" alt="Find Page"> |
