@@ -5,14 +5,7 @@
 # Projects Portfolio
 
 ## **Project 1: Transetter (Software Engineering)**
-#### Team:
-##### 1. Albert Lilian Thamson (2201754412)
-##### 2. Daniel Santoso (2201756506)
-##### 3. Kevin Gunawan (2201829981)
-##### 4. Luwis Lim (2201761771)
-##### 5. Rio Nagano (2201767232)
-##### 6. Steven Odolf Yuwono (2201758045)
-
+#### Team: 6 orang
 
 <br>
 <b> Penjelasan Transetter </b>
@@ -42,12 +35,7 @@
 
 <br><br>
 ## Project 2: Profanity Checker (Natural Language Processing)
-#### Team:
-##### 1. Albert Lilian Thamson (2201754412)
-##### 2. Daniel Santoso (2201756506)
-##### 3. Luwis Lim (2201761771)
-##### 4. Steven Odolf Yuwono (2201758045)
-
+#### Team: 4 orang
 <br>
 <b> Penjelasan Profanity Checker </b>
 <div> 
@@ -82,10 +70,7 @@
 
 <br><br>
 ## Project 3: XtreamChaser (Human Computer Interaction)
-#### Team:
-##### 1. Alif Winanda
-##### 2. Luwis Lim (2201761771)
-##### 3. Steven Odolf Yuwono (2201758045)
+#### Team: 3 orang
 
 <br>
 <b> Penjelasan XtreamChaser </b>
@@ -107,12 +92,7 @@
 
 <br><br>
 ## Project 4: The Relationship between People’s Music Preferences and Their Health Lifestyle (Machine Learning)
-#### Team:
-##### 1. Albert Lilian Thamson (2201754412)
-##### 2. Daniel Santoso (2201756506)
-##### 3. Luwis Lim (2201761771)
-##### 4. Steven Odolf Yuwono (2201758045)
-
+#### Team: 4 orang
 <br>
 <b> Penjelasan Proyek </b>
 <div> 
@@ -130,10 +110,35 @@
 </div>
 
 <br><br>
+
+## Project 5: Project Management System
+#### Team: 2 orang
+
+<br>
+<b> Penjelasan Proyek </b>
+<div> 
+  <p align="justify">
+    Proyek ini merupakan project pertama yang saya kerjakan selama menjalani Enrichment Program di PT. Kawan Lama Sejahtera. Aplikasi yang dibuat berfungsi untuk membantu divisi Internal Audit dalam memonitoring semua proyek/tugas yang ada di divisi Internal Audit. User dapat membuat proyek/tugas lalu diberikan kepada user lain dan user juga dapat melakukan monitoring proyek/tugas yang memiliki hubungan dengan user tersebut.
+  </p>
+</div>
+
+<br>
+<b> Apa yang saya kerjakan </b>
+<div>
+  <p align="justify">
+    Pada proyek ini, saya mengerjakan bagian database, back-end, hingga front-end. Berikut beberapa gambar dari aplikasi Project Management System.
+    <img src="https://github.com/luwislim/Portfolio/blob/master/images/AuditSystem11.png?raw=true" alt="dashboard page">
+    <img src="https://github.com/luwislim/Portfolio/blob/master/images/AuditSystem2.png?raw=true" alt="attendance">
+    <img src="https://github.com/luwislim/Portfolio/blob/master/images/AuditSystem3.png?raw=true" alt="monitoring">
+    <img src="https://github.com/luwislim/Portfolio/blob/master/images/AuditSystem4.png?raw=true" alt="create project">
+    <img src="https://github.com/luwislim/Portfolio/blob/master/images/AuditSystem6.png?raw=true" alt="admin user">
+    <img src="https://github.com/luwislim/Portfolio/blob/master/images/AuditSystem7.png?raw=true" alt="admin project">
+  </p>
+</div>
 # Additional
 
 ## PopLegal (Software Engineering)
-#### Luwis Lim (2201761771)
+#### Individu
 
 <br>
 <b> Penjelasan Tugas </b>
