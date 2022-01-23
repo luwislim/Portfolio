@@ -1,6 +1,6 @@
 # Luwis Lim's Portfolio
 
-<a href="https://drive.google.com/drive/folders/1AFNa5DsMoBW9bOnNKS9oRM3GMV7GjytM?usp=sharing">Click Here</a>
+<!-- <a href="https://drive.google.com/drive/folders/1AFNa5DsMoBW9bOnNKS9oRM3GMV7GjytM?usp=sharing">Click Here</a> -->
 
 # Projects Portfolio
 
